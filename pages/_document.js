@@ -10,6 +10,10 @@ class MyDocument extends Document {
       <Html lang="en" className="theme-compiled">
         <Head>
           <style>{`:root{${cssVars}}`}</style>
+          <link
+            href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap"
+            rel="stylesheet"
+          />
         </Head>
         <body
           className={`antialiased text-lg bg-white dark:bg-gray-900 dark:text-white leading-base`}
