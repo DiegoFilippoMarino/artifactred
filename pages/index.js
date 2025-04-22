@@ -26,8 +26,8 @@ export default function Index({ posts, globalData }) {
           <h2 className="text-xl font-bold text-red-600 dark:text-red-400">This is not</h2>
           <p>
             A guide. A tutorial. A place for polished thoughts.<br />
-            Most of what's written here will be obvious to 99% of the internet.<br />
-            That's fine — it's not for them.
+            Most of what&rsquo;s written here will be obvious to 99% of the internet.<br />
+            That&rsquo;s fine — it&rsquo;s not for them.
           </p>
 
           <h2 className="text-xl font-bold mt-10 text-red-600 dark:text-red-400">This is</h2>
